@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nay
-- 👀 I’m interested in ~
-- 🌱 I’m currently learning ~
-- 💞️ I’m looking to collaborate on โสดมั้ง
+- 👋 Hi, I’m เนย์
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ~
 
 <!---
